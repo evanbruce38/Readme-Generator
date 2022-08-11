@@ -1,47 +1,8 @@
-# Find a K-9
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+# README Generator
 
-  ## Description
+## Description
+For this Project I was given starter code for a professional readme generator that can be run out of node.js. This application prompts a user with questions about their project and the license they wish to give it to create a very interactive and professioal looking readme. I created this project using only javascript and npm inquirer as well as node.js. I have also provided a walkthrough video to teach a developer how to use this application.
 
-  * This project was created to allow a user to find random pictures of a dog species of their choice.
+## Walkthrough Video
 
-  ## Table of Contents
-
-  * [Installation](#installation)
-  * [Usage](#usage)
-  * [License Info](#license-info)
-  * [Contributing](#contributing)
-  * [Credits](#credits)
-  * [Tests](#tests)
-  * [Further Questions](#further-questions)
-  
-  
-  ### Installation
-
-  * close the project using githubs clone function
-
-  ### Usage
-
-  * Click on the dropdown menu and use the button to pull a picture of that species.
-
-  ### License Info
-
-  * [MIT License](https://opensource.org/licenses/MIT)
-  * A short and simple permissive license with conditions only requiring preservation of copyright and license notices. Licensed works, modifications, and larger works may be distributed under different terms and without source code.
-  
-  ### Contributing
-
-  * 
-
-  ### Credits
-
-  * 
-
-  ### Tests
-
-  * cfbhaduvfd
-
-  ### Further Questions
-
-  * If you have further questions, feel free to send them to email@email.com
-
+- (insert video link here)
